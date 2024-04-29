@@ -24,11 +24,19 @@ Tech Stack:
 ## Pre-requisites
 Before start using the lambda function, some configuration must be done on both Gmail and AWS side
   - GMail
-    - Enable Gmail API and set up Oauth. More details on how to do this can be found in this link(s)
-      * es 
+    - Enable Gmail API --> https://support.google.com/googleapi/answer/6158841?hl=en
+    - Configure Oauth and consent screen --> https://support.google.com/cloud/answer/6158849?hl=en
+  - Lambda
+    - 
 
 
 ## Additional Resources
+- Gmail API documentation -> https://developers.google.com/gmail/api/quickstart/python
+- Oauth libraries
+    * https://google-auth-oauthlib.readthedocs.io/en/latest/reference/google_auth_oauthlib.flow.html#google_auth_oauthlib.flow.InstalledAppFlow
+    * https://googleapis.github.io/google-api-python-client/docs/oauth.html
+    * https://google-auth.readthedocs.io/en/stable/reference/google.oauth2.credentials.html#google.oauth2.credentials.Credentials
+  
 
 
 
