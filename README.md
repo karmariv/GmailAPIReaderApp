@@ -25,7 +25,7 @@ Tech Stack:
 Before start using the lambda function, some configuration must be done on both Gmail and AWS side
   - GMail
     - Enable Gmail API and set up Oauth. More details on how to do this can be found in this link(s)
-      - 
+      * es 
 
 
 ## Additional Resources
