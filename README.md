@@ -27,7 +27,7 @@ Before start using the lambda function, some configuration must be done on both 
     - Enable Gmail API --> https://support.google.com/googleapi/answer/6158841?hl=en
     - Configure Oauth and consent screen --> https://support.google.com/cloud/answer/6158849?hl=en
   - Lambda
-    - 
+    - Follwing libraries are required google-api-python-client, google-auth-httplib2, google-auth-oauthlib. In order to have them available in lambda you can create a layer. --> https://www.linkedin.com/pulse/add-external-python-libraries-aws-lambda-using-layers-gabe-olokun/
 
 
 ## Additional Resources
